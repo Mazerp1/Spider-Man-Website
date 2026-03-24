@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #141414;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+     background-color: #ff0000b0;
+    background-image: url("images/spiderman-logo.jfif");
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hero h1 {
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+}
+
+h1, h2 , h3 {
+    color: #a12a2adf;
+}
+.synopsis {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    padding-left: 20px;
+}
+section img {
+    display: block;
+    margin: 0 auto;
+}
+a {
+    color: #00aaff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #141414;
+    margin-top: 20px;
+}
+
+.marvel-logo {
+    width: 100px;
+}
